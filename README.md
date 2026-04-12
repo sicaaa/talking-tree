@@ -9,14 +9,19 @@
 ### install python
 <p>To get started, download Python on macOS, Windows or Linux: https://www.python.org</p>
 
-- Then, open the terminal and make sure you are using the correct Python installation:
-'python3 --version' `code`
+- first, open the terminal and make sure you are using the correct Python installation: `python3 --version`
+- upgrade pip `python3 -m pip install --upgrade pip`
 
+### instal python packages
+<p>Then, install additional packages via the terminal:</p>
 
-
-
-Then, install additional packages: 
-
+- install faster-whisper package for fast speech-to-text `pip3 install faster-whisper`
+- install requests package for sending HTTP requests `pip3 install requests`
+- install sounddevice package for audio input/output `pip3 install sounddevice`
+- install scipy package for signal processing `pip3 install scipy`
+- install numpy package for signal processing `pip3 install numpy`
+- install piper-tts package for local text-to-speech system `pip3 install piper-tts`
+- install onnxruntime for GPU acceleration for ONNX models `pip3 install onnxruntime`
 
 
 
