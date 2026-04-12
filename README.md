@@ -10,10 +10,10 @@ The aim of this project is to develop a conversational tree to raise awareness o
 To get started, download Python on macOS: <br>
 https://www.python.org <br>
 
-- first, open the terminal and make sure you are using the correct Python installation: `python3 --version`
+- open the terminal and make sure you are using the correct Python installation: `python3 --version`
 - upgrade pip `python3 -m pip install --upgrade pip`
 
-### instal python packages
+### install python packages
 Then, install additional packages via the terminal by using pip or pip3:<br>
 
 - install faster-whisper package for fast speech-to-text `pip3 install faster-whisper`
@@ -36,7 +36,21 @@ https://ollama.com/library/gemma3 <br>
 
 
 ### install piper
-
-Text to Speech on macOS with Piper: <br>
+Piper is a fast and local neural text-to-speech engine. To get started, go to the following repository and install piper: <br>
+https://github.com/OHF-Voice/piper1-gpl <br>
+For installing piper you can find unseful istructions here: <br>
 https://www.thoughtasylum.com/2025/08/25/text-to-speech-on-macos-with-piper/ <br>
-https://sourceforge.net/projects/piper-tts.mirror/files/2023.11.14-2/piper_macos_aarch64.tar.gz/download
+
+- open the terminal and install piper: `pip install piper-tts`
+
+If the installation via pip fails you can download the following file fpr your macOS: <br>
+https://sourceforge.net/projects/piper-tts.mirror/files/2023.11.14-2/piper_macos_aarch64.tar.gz/download <br>
+
+
+## voices
+
+### piper voices
+Test different piper voices here: <br>
+https://piper.ttstool.com/ <br>
+
+
