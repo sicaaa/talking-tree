@@ -7,13 +7,14 @@ The aim of this project is to develop a conversational tree to raise awareness o
 
 
 ### install python
-<p>To get started, download Python on macOS: https://www.python.org</p>
+To get started, download Python on macOS: <br>
+https://www.python.org <br>
 
 - first, open the terminal and make sure you are using the correct Python installation: `python3 --version`
 - upgrade pip `python3 -m pip install --upgrade pip`
 
 ### instal python packages
-<p>Then, install additional packages via the terminal:</p>
+Then, install additional packages via the terminal:<br>
 
 - install faster-whisper package for fast speech-to-text `pip3 install faster-whisper`
 - install requests package for sending HTTP requests `pip3 install requests`
@@ -26,16 +27,16 @@ The aim of this project is to develop a conversational tree to raise awareness o
 
 
 ### install ollama
-With Ollama, you can run large AI language models locally on your computer. Instead of sending data to the cloud (like ChatGPT or other online services), Ollama runs the model offline, directly on your laptop or desktop. To get started, download Ollama on macOS: 
-https://ollama.com/download<br>
+With Ollama, you can run large AI language models locally on your computer. Instead of sending data to the cloud (like ChatGPT or other online services), Ollama runs the model offline, directly on your laptop or desktop. To get started, download Ollama on macOS: <br>
+https://ollama.com/download <br>
 
-<p>Then, download an ai model, such as gemma3:
-https://ollama.com/library/gemma3</p>
+Then, download an ai model, such as gemma3: <br>
+https://ollama.com/library/gemma3 <br>
 
 
 
 ### install piper
 
-Text to Speech on macOS with Piper:
+Text to Speech on macOS with Piper: <br>
 https://www.thoughtasylum.com/2025/08/25/text-to-speech-on-macos-with-piper/ <br>
 https://sourceforge.net/projects/piper-tts.mirror/files/2023.11.14-2/piper_macos_aarch64.tar.gz/download
