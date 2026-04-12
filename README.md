@@ -14,7 +14,7 @@ https://www.python.org <br>
 - upgrade pip `python3 -m pip install --upgrade pip`
 
 ### instal python packages
-Then, install additional packages via the terminal:<br>
+Then, install additional packages via the terminal by using pip or pip3:<br>
 
 - install faster-whisper package for fast speech-to-text `pip3 install faster-whisper`
 - install requests package for sending HTTP requests `pip3 install requests`
