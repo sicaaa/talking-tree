@@ -1,5 +1,5 @@
 # AI-tree
-The aim of this project is to develop a conversational tree to raise awareness of environmental stressors. To achieve this, we are focusing on developing an LLM that runs locally on a MacOS computer.
+The aim of this project is to develop a conversational tree to raise awareness of environmental stressors. :deciduous_tree: To achieve this, we are focusing on developing an LLM that runs locally on a MacOS computer.
 
 
 
