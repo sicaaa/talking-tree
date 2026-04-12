@@ -1,9 +1,24 @@
 # AI-tree
-... General information
+... General information for MacOS
 
 
 
 ## installation
+
+
+### install python
+<p>To get started, download Python on macOS, Windows or Linux: https://www.python.org</p>
+
+- Then, open the terminal and make sure you are using the correct Python installation:
+'python3 --version'
+
+
+
+
+Then, install additional packages: 
+
+
+
 
 ### install ollama
 <p>With Ollama, you can run large AI language models locally on your computer. Instead of sending data to the cloud (like ChatGPT or other online services), Ollama runs the model offline, directly on your laptop or desktop. To get started, download Ollama on macOS, Windows or Linux: 
