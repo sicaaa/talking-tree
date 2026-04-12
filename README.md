@@ -10,7 +10,7 @@
 <p>To get started, download Python on macOS, Windows or Linux: https://www.python.org</p>
 
 - Then, open the terminal and make sure you are using the correct Python installation:
-'python3 --version'
+'python3 --version' `code`
 
 
 
