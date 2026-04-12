@@ -54,7 +54,10 @@ https://sourceforge.net/projects/piper-tts.mirror/files/2023.11.14-2/piper_macos
 Test different piper voices here: <br>
 https://piper.ttstool.com/ <br>
 
-Then, download the following piper voice model: <br>
+Then, download the following piper voice model here: <br>
+https://huggingface.co/rhasspy/piper-voices/tree/main/de/de_DE <br>
+
+In this proof of concept we used thorstens voice: <br>
 - de_DE-thorsten-high.onnx
 - de_DE-thorsten-high.onnx.json
 
