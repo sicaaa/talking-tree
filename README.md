@@ -37,7 +37,8 @@ https://ollama.com/library/gemma3 <br>
 
 
 ### install piper
-Piper is a fast and local neural text-to-speech engine. To get started, go to the following repository and install piper: <br>
+Piper is a fast and local neural text-to-speech engine. <br>
+To get started, go to the following repository and install piper: <br>
 https://github.com/OHF-Voice/piper1-gpl <br>
 For installing piper you can find unseful istructions here: <br>
 https://www.thoughtasylum.com/2025/08/25/text-to-speech-on-macos-with-piper/ <br>
