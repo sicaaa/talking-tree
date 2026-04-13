@@ -27,7 +27,7 @@ Then, install additional packages via the terminal by using pip or pip3:<br>
 
 
 ### install ollama
-With Ollama, you can run large AI language models locally on your computer. Instead of sending data to the cloud (like ChatGPT or other online services).<br> 
+With Ollama, you can run large AI language models locally on your computer.<br> 
 To get started, download Ollama on macOS: <br>
 https://ollama.com/download <br>
 
