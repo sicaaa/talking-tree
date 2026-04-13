@@ -19,10 +19,10 @@ Then, install additional packages via the terminal by using pip or pip3:<br>
 - install faster-whisper package for fast speech-to-text `pip3 install faster-whisper`
 - install requests package for sending HTTP requests `pip3 install requests`
 - install sounddevice package for audio input/output `pip3 install sounddevice`
-- install scipy package for signal processing `pip3 install scipy`
-- install numpy package for signal processing `pip3 install numpy`
-- install piper-tts package for local text-to-speech system `pip3 install piper-tts`
-- install onnxruntime for GPU acceleration for ONNX models `pip3 install onnxruntime`
+- install scipy package for scientific computing and technical computing `pip3 install scipy`
+- install numpy package for multi-dimensional arrays `pip3 install numpy`
+- install piper-tts package for local text-to-speech `pip3 install piper-tts`
+- install onnxruntime for ONNX models `pip3 install onnxruntime`
 
 
 
